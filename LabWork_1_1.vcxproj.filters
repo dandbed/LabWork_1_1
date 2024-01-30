@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Part_1">
+      <UniqueIdentifier>{e1165201-c987-4ae1-9b88-17443a7f34d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Part_2">
+      <UniqueIdentifier>{64c3e04b-321f-4398-a422-59b0d3c5f6bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Part_3">
+      <UniqueIdentifier>{5ae23f82-e82c-4792-b586-a3c8e7f9c656}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Part_1.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Part_2.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Part_3.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_Part_2.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_2_Part_2.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_Part_1.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_2_Part_1.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_3_Part_1.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_Part_3.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Size_Check.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Input_of_Matrix_Elements.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Data_Check_Part_2.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Display_Part_2.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Check.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Display_Part_3.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Data_Check_Part_3.cpp">
+      <Filter>Исходные файлы\Part_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Count_Negative_Elements.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sum_of_Elements.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Comparison.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Initialization_Of_Result_Matrix.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Maximum_Sum.cpp">
+      <Filter>Исходные файлы\Part_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Check.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertArr.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="summer.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="quantity.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Negative.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchEl1.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchEl2.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Create_Of_New_Array.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Display_Part_1.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Size_of_Array.cpp">
+      <Filter>Исходные файлы\Part_1</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Library.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
